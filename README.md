@@ -1,5 +1,5 @@
 <h1 align="center">Grids</h1>
-<h3 align="center">Unopinionated minimalist boilerplate for responsive 12-column style system.</h3>
+<p align="center">Unopinionated minimalist boilerplate for responsive 12-column style system.</p>
 
 **Minimalist Boilerplate**<br>
 The code is written with minimalism in mind. The code itself is less than 100 lines. This code is enough to make your webpage responsive with 12-columns only. Half of the code is for responsiveness (damn you media queries!). Want only 12-column style system? You can strip some more code away!
