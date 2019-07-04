@@ -20,7 +20,7 @@ The style system is based on 1200px design. Based on 4 device sizes, which are
 Column size starts from 6.33% and goes upto 98%. Width of an n-column grid can be calculated as `(n÷12*100)-2 %`. Columns have a gutter(margin) of 1% on each side.<br>
 Columns have to be inside a row. Rows on the other hand can be directly inside the parent div(body) or inside a container.<br>
 Container have a defined max-width of 1200px and is flexible as a percent of parent's width. Defined as 90% for small screen devices, 85% for medium screen devices and 75% for large and above screen devices.<br>
-> <small>All widths are defined as a percentage of their parent's width, so be careful of nesting as elements may get small real quick.</small><br>
+***NOTE:**<small>All widths are defined as a percentage of their parent's width, so be careful of nesting as elements may get small real quick.</small>*<br>
 
 **No bullshit code**<br>
 No classes for offset-, pull-, push-... code it straight and simple! Want an offset? Add an empty div with column of required offset.
